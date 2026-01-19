@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="GitBanner" src="https://github.com/user-attachments/assets/a5ef9f4f-c163-4e4b-a1ac-9bcda40b694d" />
+
+
 ### **About Me**
 
 - **2+ years of experience** in **organic marketing**, helping businesses grow their LinkedIn Personal Brand and drive engagement and leads. 
