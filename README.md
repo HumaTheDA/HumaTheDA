@@ -4,7 +4,7 @@
 
 I blend Data Analytics + AI + Personal Branding to help people grow faster, work smarter, and create real opportunities.
 
-With 2+ years of experience in organic marketing, I’ve helped coaches and consultants build strong LinkedIn personal brands, increase visibility, and generate consistent leads — all backed by data, not guesswork.
+With 2+ years of experience in organic marketing, I’ve helped coaches and consultants build strong LinkedIn personal brands, increase visibility, and generate consistent leads, all backed by data.
 
 Now, I’m combining that experience with AI-powered Data Analytics to solve real-world problems and help others build job-ready skills.
 
@@ -17,9 +17,9 @@ Now, I’m combining that experience with AI-powered Data Analytics to solve rea
   - Power BI  
   - Tableau  
   - Looker Studio  
-  - SQL  
-- Currently learning Python to enhance analytical and automation capabilities  
-- Focused on practical, real-world learning — not just theory  
+  - SQL
+  - Python
+- Focused on practical, real-world learning 
 
 
 ## 💼 Internship Experience
@@ -41,7 +41,7 @@ For the past 2+ years, I have:
 - Used data-driven insights to optimize content performance  
 
 📌 My approach:  
-Personal Branding based on data — not assumptions.
+Personal Branding based on data.
 
 
 ## 🌍 Remote Work Experience
@@ -51,7 +51,6 @@ Personal Branding based on data — not assumptions.
 - Skilled in:
   - Project management tools  
   - Communication & collaboration  
-  - Async workflows
     
 
 ## 📁 Real-World Projects
@@ -69,7 +68,8 @@ Personal Branding based on data — not assumptions.
 ### Data Analytics
 - Excel (Advanced formulas, Pivot Tables, data analysis)  
 - Power BI, Tableau, Looker Studio (Dashboards & reporting)  
-- SQL (Data extraction & manipulation)  
+- SQL (Data extraction & manipulation)
+- Python- (Pandas, Matplotlib, Numpy, Seaborn)
 
 ### AI-Driven Analytics
 - ChatGPT, Claude, Perplexity, Copilot  
