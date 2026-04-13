@@ -143,10 +143,8 @@ By the end, you will:
 
 ## 🔄 What’s Next
 
-- Learning Python for advanced analytics & automation  
-- Building more real-world projects  
+- Looking for Data roles that help me learn and grow in my career
 - Helping more people transition into data roles  
-- Exploring opportunities in AI-driven analytics & consulting  
 
 
 ## 🤝 Open To
